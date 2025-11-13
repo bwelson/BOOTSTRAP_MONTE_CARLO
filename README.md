@@ -204,8 +204,9 @@ We welcome contributions! Please:
 
 ## Contact
 
-**Bentum Welson** - Kwame Nkrumah University of Science and Technology  
-**Asante Akosua Agnes** - Kwame Nkrumah University of Science and Technology
+**Bentum Welson** - bwelson523.email@gmail.com  
+**Asante Akosua Agnes** - 
+(Kwame Nkrumah University of Science and Technology)
 
 For questions about this research, please open an issue in this repository.
 
