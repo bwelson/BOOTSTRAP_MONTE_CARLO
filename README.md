@@ -157,7 +157,7 @@ source("bootstrap_simulation.R")
 ![Coverage Rates](Enhanced_Fig1_Coverage_CI.png)
 
 ### Tail Coverage Analysis (Small Samples)
-![Tail Coverage](results/figures/Enhanced_Fig3_Tail_Coverage.png)
+![Tail Coverage](Enhanced_Fig3_Tail_Coverage.png)
 
 ## Practical Recommendations
 
@@ -204,9 +204,9 @@ We welcome contributions! Please:
 
 ## Contact
 
-**Bentum Welson** - bwelson523.email@gmail.com  
+**Bentum Welson** - bwelson523@gmail.com  
 **Asante Akosua Agnes** - 
-(Kwame Nkrumah University of Science and Technology)
+**Kwame Nkrumah University of Science and Technology
 
 For questions about this research, please open an issue in this repository.
 
