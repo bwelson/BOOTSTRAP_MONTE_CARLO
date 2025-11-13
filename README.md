@@ -154,7 +154,7 @@ source("bootstrap_simulation.R")
 ## 📊 Key Visualizations
 
 ### Coverage Rates by Distribution and Sample Size
-![Coverage Rates](results/figures/Enhanced_Fig1_Coverage_CI.png)
+![Coverage Rates]([results/figures/Enhanced_Fig1_Coverage_CI.png](https://github.com/bwelson/BOOTSTRAP_MONTE_CARLO/blob/main/Enhanced_Fig1_Coverage_CI.png))
 
 ### Tail Coverage Analysis (Small Samples)
 ![Tail Coverage](results/figures/Enhanced_Fig3_Tail_Coverage.png)
