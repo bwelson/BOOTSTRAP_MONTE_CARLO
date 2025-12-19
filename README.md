@@ -29,11 +29,11 @@ While bootstrap methods offer robust alternatives to classical inference for sma
 
 ### Critical Findings
 
-✅ **For Exponential Distribution (n=20):** BCa achieved 91.87% coverage while basic method only achieved 88.45% - a practically significant difference of 3.4 percentage points
+- **For Exponential Distribution (n=20):** BCa achieved 91.87% coverage while basic method only achieved 88.45% - a practically significant difference of 3.4 percentage points
 
-✅ **Computational Cost:** BCa requires 17,052ms vs. normal approximation's 47ms (362× slower)
+- **Computational Cost:** BCa requires 17,052ms vs. normal approximation's 47ms (362× slower)
 
-✅ **Practical Recommendation:** Use BCa for n<40 with skewed data; use normal approximation for n≥40 or when computational efficiency matters
+- **Practical Recommendation:** Use BCa for n<40 with skewed data; use normal approximation for n≥40 or when computational efficiency matters
 
 ---
 
@@ -151,7 +151,7 @@ source("bootstrap_simulation.R")
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 
 ### Coverage Rates by Distribution and Sample Size
 ![Coverage Rates](Enhanced_Fig1_Coverage_CI.png)
@@ -186,14 +186,14 @@ source("bootstrap_simulation.R")
 
 ## Study Limitations
 
-⚠️ **Standard Deviation and Coefficient of Variation:** All methods show poor coverage at n < 40  
-⚠️ **Heavy Contamination:** BCa can be unreliable with extreme outliers  
-⚠️ **Computation Time:** BCa requires significant time for large-scale studies  
-⚠️ **Scope:** Results apply to univariate parameters only (not regression coefficients)
+ **Standard Deviation and Coefficient of Variation:** All methods show poor coverage at n < 40  
+ **Heavy Contamination:** BCa can be unreliable with extreme outliers  
+ **Computation Time:** BCa requires significant time for large-scale studies  
+ **Scope:** Results apply to univariate parameters only (not regression coefficients)
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please:
 1. Fork the repository
